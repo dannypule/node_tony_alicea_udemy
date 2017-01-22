@@ -18,6 +18,7 @@
   "homepage": "https://github.com/dannypule/node_tony_alicea_udemy#readme",
   "devDependencies": {},
   "dependencies": {
+    "cookie-parser": "^1.4.3",
     "express": "^4.14.0"
   }
 }
