@@ -16,10 +16,8 @@
     "url": "https://github.com/dannypule/node_tony_alicea_udemy/issues"
   },
   "homepage": "https://github.com/dannypule/node_tony_alicea_udemy#readme",
-  "devDependencies": {
-    "jasmine-node": "^1.14.5"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "moment": "^2.17.1"
+    "express": "^4.14.0"
   }
 }
